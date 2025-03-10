@@ -21,3 +21,9 @@ A minimal and high-performance **Bun.js boilerplate** with Express-like routing,
 ```sh
 curl -fsSL https://bun.sh/install | bash
 ```
+
+### Run
+
+```sh
+bun run dev
+```
